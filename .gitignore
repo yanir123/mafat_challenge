@@ -1,0 +1,4 @@
+images/*
+labelTxt/*
+__pycache__/*
+*.csv
